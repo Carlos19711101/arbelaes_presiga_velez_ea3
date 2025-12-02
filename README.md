@@ -10,3 +10,5 @@
 4. Aplicación práctica y demostración.
 5. Análisis crítico y reflexión ética.
 6.
+
+# 🧠
